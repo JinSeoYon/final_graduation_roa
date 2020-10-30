@@ -1,7 +1,12 @@
 # final_graduation
-Understanding crying, the only communication method of a baby who cannot speak, is the most difficult and difficult part of parenting. In particular, in the case of parents who are not familiar with child-rearing, and parents with hearing impairments, it is more difficult because they do not know the reason for the baby's crying. In this study, we propose a mobile application that uses the child's crying sound database to determine the child's crying sound in real time. By using the fact that the frequency of the crying sound varies depending on the child's condition, the sound is sensed in real time, and when the crying sound is heard, the child's crying sound is analyzed with a deep learning model to inform the reason for the child's crying sound. Considering that the situation that requires this service may be urgent, the user interface is simple and intuitively configured.
 
 ## Sookmyung Women's University
+
+## Real-time Baby Cry Classification Application based On Artificial intelligence
+
+Understanding crying, the only communication method of a baby who cannot speak, is the most difficult and difficult part of parenting. In particular, in the case of parents who are not familiar with child-rearing, and parents with hearing impairments, it is more difficult because they do not know the reason for the baby's crying. In this study, we propose a mobile application that uses the child's crying sound database to determine the child's crying sound in real time. By using the fact that the frequency of the crying sound varies depending on the child's condition, the sound is sensed in real time, and when the crying sound is heard, the child's crying sound is analyzed with a deep learning model to inform the reason for the child's crying sound. Considering that the situation that requires this service may be urgent, the user interface is simple and intuitively configured.
+
+
 
 
 ### Procedure
